@@ -1,1 +1,1 @@
-FROM ghcr.io/alist-org/alist:latest
+FROM xhfe/alist:latest
